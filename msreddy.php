@@ -33,3 +33,9 @@ https://wordpress.org/plugins/menu-icons/
 https://wordpress.org/plugins/kirki/
 
 https://wordpress.org/plugins/smart-slider-3/
+
+https://www.codeinwp.com/blog/best-free-wordpress-themes/
+
+http://www.acosmin.com/theme/justwrite/
+
+https://www.codeinwp.com/blog/free-magazine-wordpress-themes/
